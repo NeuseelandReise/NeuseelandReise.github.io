@@ -4,7 +4,7 @@ title: "A Little Example"
 date: 2017-03-06
 backgrounds:
     - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/tube.jpg
-    - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/village.jpeg
+    - /images/village.jpeg
 thumb: https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/thumbs/chemex.jpg
 categories: Tutorial Example
 show_categories: true
